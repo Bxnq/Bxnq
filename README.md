@@ -11,5 +11,5 @@ A passionate full stack developer from Austria.
 - [Svelte-(Kit)](https://svelte.dev/)
 - [TailwindCSS](https://tailwindcss.com/)
 
-### Public Projects
+### Open Source Projects
 - [Balid](https://github.com/Bxnq/balid) - A lightweight schema validator.
