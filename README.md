@@ -13,3 +13,6 @@ A passionate full stack developer from Austria.
 
 ### Open Source Projects
 - [Balid](https://github.com/Bxnq/balid) - A lightweight schema validator.
+
+### Other Projects
+- [WaitFor](https://waitfor.xyz) - Waitlist builder to find customers before you launch.
